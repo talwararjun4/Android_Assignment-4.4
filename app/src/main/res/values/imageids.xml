@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>\
+<array name="image_ids">
+    <item>@drawable/gingerbread</item>
+    <item>@drawable/honeycomb</item>
+    <item>@drawable/icecream</item>
+    <item>@drawable/jellybean</item>
+    <item>@drawable/kitkat</item>
+    <item>@drawable/lollipop</item>
+</array>
+    <array name="image_names">
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Icecream</item>
+        <item>Jellybean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+    </array>
+
+</resources>
